@@ -7,12 +7,11 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} alt="logo" />
+        <img src={logo} alt="logo" className="App-logo" />
         <h1>
           CANDIDE
         </h1>
-        {/* increase image size */}
-        <div className="social-links">
+        <div>
           <a href="https://twitter.com/candidewallet" target="_blank" rel="noopener noreferrer">
             <img src={twitterLogo} alt="twitter" />
           </a>
