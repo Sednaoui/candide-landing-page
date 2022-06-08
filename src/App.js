@@ -18,6 +18,11 @@ function App() {
           <a href="https://github.com/Sednaoui/Candide/tree/main/wallet" target="_blank" rel="noopener noreferrer">
             <img src={githubLogo} alt="github" />
           </a>
+          <a href="https://docs.candidewallet.com" target="_blank" rel="noopener noreferrer">
+            <p className="App-link">
+              Docs
+            </p>
+          </a>
         </div>
       </header>
     </div>
