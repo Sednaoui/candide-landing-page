@@ -11,6 +11,9 @@ function App() {
         <h1>
           CANDIDE
         </h1>
+        <a type="button" target="_blank" href="https://discord.gg/7q6JAmJdjz" className="button-74" rel="noreferrer">
+          Join on Discord
+        </a>
         <div>
           <a href="https://twitter.com/candidewallet" target="_blank" rel="noopener noreferrer">
             <img src={twitterLogo} alt="twitter" />
